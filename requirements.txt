@@ -1,0 +1,12 @@
+einops 
+datasets 
+matplotlib 
+tqdm 
+accelerate 
+torchinfo 
+wandb
+ema_pytorch
+lpips
+pyyaml
+diffusers
+transformers
